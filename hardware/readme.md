@@ -6,4 +6,8 @@ UPiDSP0206 Main A01 试验debug后改好了的sch，pcb还没改;
 
 Power Supply 主板配套的电源SCH，用洞洞板焊了，SCH OK，PCB布局供参考;
 
-RasPi Linear Power Supply Hat 树莓派3A线性电源模块，SCH OK，PCB OK.
+RasPi Linear Power Supply Hat 树莓派3A线性电源模块，SCH OK，PCB OK;
+
+DSP核心板使用taobao"音极丽科技"的Adau1452开发板，有小改动（拆除晶振和几个IO口的电阻);
+
+USB界面是公版意大利界面Amanero combo384.
