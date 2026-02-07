@@ -12,7 +12,8 @@ DSP核心板使用taobao"音极丽科技"的Adau1452开发板，有小改动（�
 
 USB界面是公版意大利界面Amanero combo384.
 
-OpenDSP_Solidworks_3D_MODEL.zip.001
-OpenDSP_Solidworks_3D_MODEL.zip.002
-OpenDSP_Solidworks_3D_MODEL.zip.003 
-整机3D模型,solidwork 2022.
+OpenDSP_Solidworks_3D_MODEL.zip.001 整机3D模型,solidwork 2022.zip格式,part1.
+
+OpenDSP_Solidworks_3D_MODEL.zip.002 整机3D模型,solidwork 2022.zip格式,part2.
+
+OpenDSP_Solidworks_3D_MODEL.zip.003 整机3D模型,solidwork 2022.zip格式,part3.
